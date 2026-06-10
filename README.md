@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lonely-sensual-night-tears/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Lonely Sensual Night Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-sensual-night-tears/) |
+| **Get License** | [Secure Licensing Rights for Lonely Sensual Night Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-sensual-night-tears/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The porch light flickers in the southern breeze
+> Your heavy eyes are calling out to me
+> We're wrapped inside the shadows of the trees
+> And I am drifting on your quiet sea
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
