@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lonely-sensual-night-tears/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Lonely Sensual Night Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-sensual-night-tears/) |
+| **Get License** | [License this song: Lonely Sensual Night Tears](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lonely-sensual-night-tears/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2957)
 
 ---
 
